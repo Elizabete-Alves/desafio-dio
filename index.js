@@ -6,7 +6,7 @@ const listaDeHerois = [
     { nome: "Ronald", xp: 10031 }
 ];
 // Laço de Repetição
- for (let i = 3000; i < listaDeHerois.length; i++) {
+ for (let i = 0; i < listaDeHerois.length; i++) {
     let nome = listaDeHerois[i].nome;
     let xp = listaDeHerois[i].xp;
     let nivel = "";
