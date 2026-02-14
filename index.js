@@ -29,5 +29,5 @@ const listaDeHerois = [
         nivel = "Radiante";
     }
 
-    console.log("O Herói de nome " + nome + "está no nível de " + nivel);
+    console.log("O Herói de nome " + nome + " está no nível de " + nivel);
 }
